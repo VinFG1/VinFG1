@@ -1,6 +1,6 @@
 # Hey, I'm Vin
 
-##### I'm a programmer, I mostly make things in C# 
+**I'm a programmer, I mostly make things in C#**
 
 I'm currently learning about and working on a bunch of things, from game dev to web dev.
 
