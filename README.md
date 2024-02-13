@@ -15,3 +15,8 @@ Things I've learned about so far:
 - Game development (primarily in Java)
 
 If you want to contact me, my info is on my [website](https://vinfg1.com)
+
+---
+### and this is Milton:
+<img src='milton.png'>
+
