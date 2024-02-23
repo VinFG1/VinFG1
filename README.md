@@ -4,6 +4,7 @@
 
 I'm currently learning about a bunch of things, like:
 - ASP.NET and Blazor
+- Bootstrap
 - SCSS/SASS
 - Game development in C#
 
