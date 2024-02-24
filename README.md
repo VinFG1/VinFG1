@@ -5,7 +5,7 @@
 If you want to contact me, my info is on my [website](https://vinfg1.com)
 
 I'm currently learning about a bunch of things, like:
-- ASP.NET and Blazor
+- ASP.NET and Blazor (mainly WebAssembly)
 - Bootstrap
 - SCSS/SASS
 - Game development in C#
@@ -13,8 +13,9 @@ I'm currently learning about a bunch of things, like:
 Things I've learned about and use already:
 - C# and .NET
 - HTML/CSS
-- Cloud infrastructure (incl. AWS, GCP, Azure, and OCI)
+- Bulma Framework
 - Static website design and deployment
+- Cloud infrastructure (incl. AWS, GCP, Azure, and OCI)
 - Game development (primarily in Java)
 
 ---
