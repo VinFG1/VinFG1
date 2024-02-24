@@ -11,7 +11,7 @@ I'm currently learning about a bunch of things, like:
 Things I've learned about and use already:
 - C# and .NET
 - HTML/CSS
-- Cloud infrastructure (including AWS, GCP, Azure, and OCI)
+- Cloud infrastructure (incl. AWS, GCP, Azure, and OCI)
 - Static website design and deployment
 - Game development (primarily in Java)
 
