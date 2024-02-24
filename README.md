@@ -2,6 +2,8 @@
 
 **I'm a programmer, I mostly make things in C#**
 
+If you want to contact me, my info is on my [website](https://vinfg1.com)
+
 I'm currently learning about a bunch of things, like:
 - ASP.NET and Blazor
 - Bootstrap
@@ -14,8 +16,6 @@ Things I've learned about and use already:
 - Cloud infrastructure (incl. AWS, GCP, Azure, and OCI)
 - Static website design and deployment
 - Game development (primarily in Java)
-
-If you want to contact me, my info is on my [website](https://vinfg1.com)
 
 ---
 ### and this is Milton:
