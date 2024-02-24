@@ -5,7 +5,7 @@
 If you want to contact me, my info is on my [website](https://vinfg1.com)
 
 I'm currently learning about a bunch of things, like:
-- ASP.NET and Blazor (mainly WebAssembly)
+- ASP.NET Core and Blazor (WebAssembly Model)
 - Bootstrap
 - SCSS/SASS
 - Game development in C#
