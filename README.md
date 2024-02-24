@@ -8,7 +8,7 @@ I'm currently learning about a bunch of things, like:
 - SCSS/SASS
 - Game development in C#
 
-Things I've learned about so far:
+Things I've learned about and use already:
 - C# and .NET
 - HTML/CSS
 - Cloud infrastructure (including AWS, GCP, Azure, and OCI)
