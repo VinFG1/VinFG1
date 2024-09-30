@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hey, I'm Vin
 
-<!--
-**VinFG1/VinFG1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm a programmer, I mostly make things in C#**
 
-Here are some ideas to get you started:
+If you want to contact me, my info is on my [website](https://vinfg1.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently learning about a bunch of things, like:
+- ASP.NET Core (focusing on Blazor WASM and SignalR)
+- Bootstrap
+- JavaScript and JQuery
+- SCSS/SASS
+- Game development in C#
+
+Things I've learned about and use already:
+- C# and .NET
+- HTML/CSS
+- Bulma Framework
+- Static website design and deployment
+- Cloud infrastructure (AWS, GCP, and OCI)
+- Game development (primarily in Java)
+
+---
+### and this is Milton:
+<img src='milton.png'>
+
